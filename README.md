@@ -12,6 +12,12 @@ Comments are written in the code to make it clearer.
 
 ## What does the repo include?
 
-<code>files/src/<\code> includes the C and C Header files that I've written specifically for this project.
-<code>files/BSP/<\code> has the BSP files, given by the developer company, and two files given by the university for using the buttons as GPIO pin inputs (with filtering).
+<code>files/src/</code> includes the C and C Header files that I've written specifically for this project.
+<code>files/BSP/</code> has the BSP files, given by the developer company, and two files given by the university for using the buttons as GPIO pin inputs (with filtering).
+<code>files/emlib/</code> contains the Energy Micro Library files needed for this project, it is for low-level peripheral support.
+<code>files/CMSIS/EFM32GG</code> has the system and startup files needed for the microcontroller.
+
+## The algorithm(s)
+More soon..
+
   
