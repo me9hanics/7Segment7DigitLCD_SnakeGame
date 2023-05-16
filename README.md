@@ -18,7 +18,7 @@ Comments are written in the code to make it clearer.
 
 <code>files/emlib/</code> contains the Energy Micro Library files needed for this project, it is for low-level peripheral support.
 
-<code>files/CMSIS/EFM32GG</code> has the system and startup files needed for the microcontroller.
+<code>files/CMSIS/EFM32GG/</code> has the system and startup files needed for the microcontroller.
 
 ## The algorithm(s)
 More soon..
