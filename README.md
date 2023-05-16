@@ -9,3 +9,9 @@ The project really helped me to design lengthy projects, as there were a lot of 
 The files written by me can be found under files/src, the project is separated into multiple files.
 
 Comments are written in the code to make it clearer.
+
+## What does the repo include?
+
+<code>files/src/<\code> includes the C and C Header files that I've written specifically for this project.
+<code>files/BSP/<\code> has the BSP files, given by the developer company, and two files given by the university for using the buttons as GPIO pin inputs (with filtering).
+  
